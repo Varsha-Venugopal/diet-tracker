@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<ArrayOfActivity xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Activity>
+    <actName>Running</actName>
+    <calories>624</calories>
+	<speed>6.67</speed>
+  </Activity>
+  <Activity>
+    <actName>Walking</actName>
+    <calories>215</calories>
+	<speed>3.5</speed>
+  </Activity>
+  <Activity>
+    <actName>Jogging</actName>
+    <calories>398</calories>
+	<speed>4</speed>
+  </Activity>
+  <Activity>
+    <actName>Bicycling</actName>
+    <calories>454</calories>
+	<speed>12</speed>
+  </Activity>
+</ArrayOfActivity>
